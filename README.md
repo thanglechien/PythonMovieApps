@@ -1,5 +1,5 @@
 # PythonMovieApps
-Similar to the Java Movie Apps but developed via Python
+Similar to the Java Movie Apps but developed via Python. See README.md in the JavaApps Repository for more description.
 
 
 ![image](https://github.com/user-attachments/assets/7117b8fd-5687-4c6d-815c-79450a5d2385)
